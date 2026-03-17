@@ -39,3 +39,6 @@ Para compreender melhor o problema do financiamento de pesquisas, foi elaborado 
 - Ministério da Ciência e Tecnologia
 - Comunidade científica
 - Sociedade
+
+[Entendimento 02 - Mapa de Stakeholders.pdf](https://github.com/user-attachments/files/26070411/Entendimento.02.-.Mapa.de.Stakeholders.pdf)
+
